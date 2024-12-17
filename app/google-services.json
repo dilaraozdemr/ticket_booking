@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534989773667",
+    "project_id": "ticketbboking",
+    "storage_bucket": "ticketbboking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534989773667:android:c459c19ba9138c1f37d156",
+        "android_client_info": {
+          "package_name": "com.example.ticket_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDykpVYCS8mbfDo9nbMwtuLB-gZiZXPi4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
