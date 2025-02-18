@@ -1,3 +1,5 @@
+import com.android.build.gradle.ProguardFiles.getDefaultProguardFile
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
@@ -51,12 +53,12 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     // Glide for image loading
-    implementation("com.github.bumptech.glide:glide:4.12.0")
+    implementation(libs.glide)
 
     // Chip Navigation Bar
-    implementation("com.github.ismaeldivita:chip-navigation-bar:1.3.3")
+    implementation(libs.chip.navigation.bar)
 
     // BlurView for blurring views
-    implementation("com.github.Dimezis:BlurView:version-2.0.3")
+    implementation(libs.blurview)
 
 }
