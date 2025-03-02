@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "534989773667",
-    "project_id": "ticketbboking",
-    "storage_bucket": "ticketbboking.firebasestorage.app"
+    "project_number": "554090123053",
+    "project_id": "ticketbooking-cdeff",
+    "storage_bucket": "ticketbooking-cdeff.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:534989773667:android:c459c19ba9138c1f37d156",
+        "mobilesdk_app_id": "1:554090123053:android:4945304eff67a26cc60da4",
         "android_client_info": {
           "package_name": "com.example.ticket_booking"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDykpVYCS8mbfDo9nbMwtuLB-gZiZXPi4M"
+          "current_key": "AIzaSyApBvFB9yVC_g_XqjSAXVcpJS2elfySoxQ"
         }
       ],
       "services": {
