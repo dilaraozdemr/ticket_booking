@@ -47,9 +47,9 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
-    implementation(libs.firebase.database)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
+    implementation(libs.firebase.database)
     androidTestImplementation(libs.androidx.espresso.core)
 
     // Glide for image loading
